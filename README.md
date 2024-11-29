@@ -1,16 +1,17 @@
-## Hi there 👋
+### Oiiiii, seja bem vindo
 
-<!--
-**GabriellyCaff/GabriellyCaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Gabrielly
 
-Here are some ideas to get you started:
+- Eu estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Javascript
+- Estou buscando melhorar nas aulas de tecnologia
+- utilizo esse espaço para a minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Caso queira entra em contato comigo 📫 
+
+gnogueiracafe@gmail.com
+
+@GabriellyCaff
+
+![](https://media.tenor.com/SVFd1qWBRNIAAAAi/geto-suguru-suguru-geto.gif)
+
